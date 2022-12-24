@@ -1,2 +1,2 @@
 # MSG——Multimodal Scene Graph Generation in Social Media Posts
-It is a preview repository of MSG dataset.
+Thansk for the concern about our proposed MSG dataset. We will release the dataset when the paper is public availale.
