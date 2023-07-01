@@ -1,5 +1,6 @@
 # MSG——Multimodal Scene Graph Generation in Social Media Posts
-Thanks for the concern about our proposed MSG dataset. 
+Thanks for the concern about our IEEE TCSVT paper [DRAKE: Deep Pair-Wise Relation Alignment for Knowledge-Enhanced Multimodal Scene Graph Generation in Social Media Posts](https://ieeexplore.ieee.org/document/9996418) and proposed MSG dataset. 
+
 You can download the MSG dataset through the [link](https://drive.google.com/file/d/1Oik24Qzk_XuHu9QG_seOA0UVLAooezJl/view?usp=drive_link).
 
 ## Data Usage
