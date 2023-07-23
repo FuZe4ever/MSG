@@ -3,8 +3,6 @@ Thanks for the concern about our IEEE TCSVT paper [DRAKE: Deep Pair-Wise Relatio
 
 You can download the MSG dataset through the [link](https://drive.google.com/file/d/1Oik24Qzk_XuHu9QG_seOA0UVLAooezJl/view?usp=drive_link).
 
-## Data Usage
-to be continued.
 
 ## Citation
 If you find this repo helpful, please cite the following:
